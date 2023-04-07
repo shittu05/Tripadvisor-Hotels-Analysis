@@ -1,5 +1,5 @@
 # Tripadvisor-Hotels-Analysis
-## Tools Used
-Excel - 
-Python - For Data Cleaning and Exploration
-Tableau - For Visualization
+> ## Tools Used
+- Excel - Initial Exploration of the dataset 
+- Python - For Data Wrangling, Data Cleaning and Data Exploration
+- Tableau - For Visualization
