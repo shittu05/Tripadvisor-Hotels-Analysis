@@ -5,7 +5,7 @@
 # I used xgb & sklearn api rather than writing the whole algorithm myself
 
 
-#importing Libraries
+#importing python libraries
 import os
 import numpy as np
 import pandas as pd
